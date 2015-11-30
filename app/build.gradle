@@ -32,7 +32,6 @@ dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:23.1.0'
     compile 'com.jakewharton:butterknife:7.0.1'
-//    compile 'com.github.whinc:CustomScrollView:1.2.1'
-//    compile 'com.github.whinc:CustomScrollView:-SNAPSHOT'
+//    compile 'com.github.qfoxtech:CustomScrollView:-SNAPSHOT'
     compile project(':widget')
 }

@@ -14,7 +14,7 @@ repositories {
 
 dependencies {
     ...
-    compile 'com.github.whinc:CustomScrollView:1.2.1'
+    compile 'com.github.qfoxtech:CustomScrollView:1.2.3'
 }
 ```
 

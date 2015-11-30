@@ -1,4 +1,4 @@
-package com.whinc.widget;
+package com.qfoxtech.android.widget;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -99,7 +99,7 @@ public class CustomScrollView extends ViewGroup {
      */
     private float mScrollFactor;
     /**
-     * Scroll speed, reference to {@link com.whinc.widget.CustomScrollView.ScrollSpeed}
+     * Scroll speed, reference to {@link CustomScrollView.ScrollSpeed}
      */
     private int mScrollSpeed;
     private OnItemChangedListener mItemChangedListener;

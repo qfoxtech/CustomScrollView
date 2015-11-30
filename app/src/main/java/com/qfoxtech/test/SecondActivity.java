@@ -1,4 +1,4 @@
-package com.whinc.customscrollview;
+package com.qfoxtech.test;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -16,8 +16,8 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.qfoxtech.android.widget.CustomScrollView;
 import com.whinc.util.Log;
-import com.whinc.widget.CustomScrollView;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;

@@ -1,4 +1,4 @@
-package com.whinc.customscrollview;
+package com.qfoxtech.test;
 
 import android.animation.ObjectAnimator;
 import android.content.Context;
@@ -18,7 +18,7 @@ import android.view.ViewGroup;
 import android.view.animation.OvershootInterpolator;
 import android.widget.ImageView;
 
-import com.whinc.widget.CustomScrollView;
+import com.qfoxtech.android.widget.CustomScrollView;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;

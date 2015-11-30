@@ -1,4 +1,4 @@
-package com.whinc.customscrollview;
+package com.qfoxtech.android.widget;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -28,7 +28,7 @@ Create a CustomScrollView with xml layout:
     xmlns:app="http://schemas.android.com/apk/res-auto"
     ...
     >
-    <com.whinc.widget.CustomScrollView
+    <com.qfoxtech.android.widget.CustomScrollView
         android:id="@+id/custom_scrollView"
         android:layout_width="match_parent"
         android:layout_height="0dp"
